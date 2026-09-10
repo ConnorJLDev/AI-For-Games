@@ -1,0 +1,7 @@
+TREENAME(DumbBaron)
+TREENODE(C_Selector, 0)
+TREENODE(D_RandomChance, 1)
+TREENODE(C_Sequencer, 2)
+TREENODE(L_SpawnBalls, 3)
+TREENODE(L_PlaySound, 3)
+TREENODE(L_MoveDownPosition, 1)
